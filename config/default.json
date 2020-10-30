@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://admin:admin@cluster0.8rydx.mongodb.net/cutthecrap?retryWrites=true&w=majority",
+  "jwtSecret": "top secret key",
+  "baseUrl": "http://localhost:5000"
+}
